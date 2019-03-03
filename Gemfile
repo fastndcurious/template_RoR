@@ -45,6 +45,7 @@ end
 
 group :test do
   gem 'database_cleaner', '~> 1.7', '>= 1.6.2'
+  gem 'nyan-cat-formatter', '~> 0.12.0'
   gem 'shoulda-matchers', '~> 4.0', '>= 4.0.1'
   gem 'simplecov', require: false
 end
