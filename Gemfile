@@ -32,7 +32,7 @@ end
 
 group :development do
   gem 'annotate', '~> 2.7', '>= 2.7.4'
-  gem 'better_errors', '~> 2.5', '>= 2.5.1'
+  gem 'better_errors', '~> 2.8'
   gem 'guard-rspec', require: false
   gem 'husky', '~> 0.5.15'
   gem 'listen', '>= 3.0.5', '< 3.2'
