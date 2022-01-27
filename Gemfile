@@ -16,7 +16,7 @@ gem 'pg', '~> 1.1', '>= 1.1.4'
 gem 'puma', '~> 3.12'
 gem 'rails', '~> 5.2', '>= 5.2.2'
 gem 'sass-rails', '~> 5.0', '>= 5.0.7'
-gem 'sidekiq', '~> 5.2', '>= 5.2.5'
+gem 'sidekiq', '~> 6.4'
 gem 'turbolinks', '~> 5.2'
 gem 'uglifier', '~> 4.1', '>= 4.1.20'
 
